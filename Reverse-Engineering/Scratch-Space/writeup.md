@@ -1,5 +1,4 @@
-## Challenge 1: Cryptography
-
+## Challenge 1: Reverse Engineering
 ### 1. TL;DR (Executive Summary)
 *   **Challenge Name:** Scratch Space
 *   **Category:** Reverse Engineering
